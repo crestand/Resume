@@ -111,6 +111,26 @@ span {
     background: #e87d0d;
 }
 
+.git-color {
+    color: #f7f5f5;
+    background: #f05639;
+}
+
+.pods-color {
+    color: #f7f5f5;
+    background: #380200;
+}
+
+.xcode-color {
+    color: #f7f5f5;
+    background: #098aff;
+}
+
+.jira-color {
+    color: #f7f5f5;
+    background: #0052cc;
+}   
+
 .swift-color {
     color: #fefefe;
     background-color: #f05138;
@@ -242,13 +262,13 @@ hr {
 }
 
 .link {
-    width: 33%;
+    width: 1%;
 }
 
 .link a {
     color: var(--second-color);
     text-decoration: none;
-    margin: auto 0.8rem;
+    margin: auto 0.2rem;
 }
 
 .link a:hover {
@@ -304,7 +324,7 @@ hr {
 }
 
 .skills {
-    width: 40%;
+    width: 100%;
 }
 
 .skills-tags {
