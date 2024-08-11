@@ -231,6 +231,7 @@ hr {
     justify-content: space-around;
     padding: 24px;
     border-bottom: 4px solid var(--gray-color);
+    overflow: hidden;
 }
 
 #profile {
@@ -262,7 +263,7 @@ hr {
 }
 
 .link {
-    width: 1%;
+    /*width: 1%;*/
 }
 
 .link a {
@@ -354,7 +355,7 @@ section h2 {
 }
 
 .languages {
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
+    /*overflow: hidden;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
 }
